@@ -1,4 +1,7 @@
-# info
+# Student Information App
+![image](https://github.com/mubeen-palh/Student_Info_App/assets/109067650/8b9350ba-a597-42b0-a9d9-f52f78945c9d)
+![image](https://github.com/mubeen-palh/Student_Info_App/assets/109067650/7b44b95f-074a-4a37-9fa2-51c0e6febabe)
+![image](https://github.com/mubeen-palh/Student_Info_App/assets/109067650/330f1ece-7f97-46fd-a019-1443a619f4da)
 
 A new Flutter project.
 
